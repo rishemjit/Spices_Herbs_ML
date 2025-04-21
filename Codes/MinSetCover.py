@@ -6,6 +6,7 @@ import time
 from itertools import chain
 
 # OPTIMIZATION Approach 
+#### Author: Shuchen Zhang
 
 def Min_cover_set(dict_data, top_set,bot_set, adjmtx, c):
     # bot_set: indications   top_set: spice set

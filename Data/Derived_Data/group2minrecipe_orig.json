@@ -1,0 +1,1069 @@
+{
+    "infectious_disease": {
+        "Mango Paneer Crackers": [
+            "olive oil",
+            "cumin",
+            "coriander",
+            "celery",
+            "mango"
+        ],
+        "Schezuan Oats and Sweet Potato Tikki": [
+            "oats",
+            "potato",
+            "celery",
+            "mango",
+            "basil",
+            "dried mixed herbs",
+            "sweet potato",
+            "onion"
+        ],
+        "Kosambari": [
+            "asafoetida",
+            "chilli",
+            "tomato",
+            "lemon",
+            "ginger",
+            "mustard",
+            "flax",
+            "carrot",
+            "capsicum",
+            "coconut"
+        ],
+        "Bharleli Tondli Recipe Card": [
+            "ivy",
+            "ivy gourd",
+            "onion",
+            "tamarind",
+            "coconut",
+            "turmeric",
+            "garam masala"
+        ],
+        "Mango Thandai Recipe Card": [
+            "poppy seeds",
+            "almond",
+            "cashew",
+            "melon",
+            "black pepper",
+            "saffron",
+            "rose petals",
+            "cardamom",
+            "cinnamon",
+            "mango",
+            "peppercorn",
+            "oak",
+            "castor"
+        ],
+        "Kachche Gosht ki Biryani Recipe Card": [
+            "cinnamon",
+            "cardamom",
+            "turmeric",
+            "mint",
+            "papaya",
+            "chilli",
+            "onion",
+            "caraway",
+            "coriander",
+            "rose petals",
+            "clove",
+            "oak",
+            "garam masala",
+            "black cardamom",
+            "ginger",
+            "black pepper",
+            "saffron",
+            "garlic",
+            "peppercorn"
+        ],
+        "Chatpata Mumbai Vada Recipe Card": [
+            "peanut",
+            "asafoetida",
+            "pomegranate",
+            "chilli",
+            "lemon",
+            "spinach",
+            "ginger",
+            "coriander",
+            "potato",
+            "mustard",
+            "curry leaves",
+            "garlic",
+            "chaat masala",
+            "fennel",
+            "date",
+            "turmeric",
+            "coconut",
+            "mint"
+        ],
+        "Orange, Grapefruit and Mint Salad": [
+            "grape",
+            "grapefruit",
+            "orange",
+            "mint"
+        ],
+        "Double Decker Modak Recipe Card": [
+            "poppy seeds",
+            "jasmine",
+            "saffron",
+            "cardamom",
+            "date",
+            "coconut"
+        ]
+    },
+    "gastrointestinal_disease": {
+        "Schezuan Oats and Sweet Potato Tikki": [
+            "oats",
+            "potato",
+            "celery",
+            "mango",
+            "basil",
+            "dried mixed herbs",
+            "sweet potato",
+            "onion"
+        ],
+        "Kosambari": [
+            "asafoetida",
+            "chilli",
+            "tomato",
+            "lemon",
+            "ginger",
+            "mustard",
+            "flax",
+            "carrot",
+            "capsicum",
+            "coconut"
+        ],
+        "Dry Fruit Halwa": [
+            "poppy seeds",
+            "almond",
+            "cashew",
+            "bottle gourd",
+            "saffron",
+            "cardamom",
+            "angelica"
+        ],
+        "Fruit Chaat (100 Calorie Snacks)": [
+            "pomegranate",
+            "orange",
+            "papaya",
+            "pineapple",
+            "coriander",
+            "chaat masala",
+            "apple",
+            "banana",
+            "grape",
+            "mint"
+        ],
+        "Sweet and Spicy Vegetable Pickle": [
+            "asafoetida",
+            "chilli",
+            "nigella seeds",
+            "fennel",
+            "coriander",
+            "mustard",
+            "mango",
+            "radish",
+            "carrot",
+            "turmeric",
+            "fenugreek"
+        ],
+        "Achari Paneer Pulao Or How To Make Achari Cottage Cheese Rice Recipe": [
+            "caraway",
+            "chilli",
+            "cumin",
+            "nigella seeds",
+            "fennel",
+            "mustard",
+            "cinnamon",
+            "clove",
+            "cardamom",
+            "coriander",
+            "turmeric",
+            "fenugreek"
+        ],
+        "Misal": [
+            "asafoetida",
+            "garam masala",
+            "chilli",
+            "cumin",
+            "tomato",
+            "lemon",
+            "ginger",
+            "coriander",
+            "mustard",
+            "goda masala",
+            "curry leaves",
+            "oak",
+            "garlic",
+            "turmeric",
+            "onion"
+        ],
+        "Fruit Salad with Mint": [
+            "orange",
+            "strawberry",
+            "banana",
+            "grape",
+            "mint"
+        ],
+        "Banana and Coffee Muffins Recipe Card": [
+            "vanilla",
+            "castor",
+            "coffee",
+            "banana"
+        ]
+    },
+    "General symptom": {
+        "Schezuan Oats and Sweet Potato Tikki": [
+            "oats",
+            "potato",
+            "celery",
+            "mango",
+            "basil",
+            "dried mixed herbs",
+            "sweet potato",
+            "onion"
+        ],
+        "Pappadam": [
+            "yellow mustard seeds",
+            "chilli",
+            "mustard",
+            "curry leaves",
+            "coconut",
+            "onion"
+        ],
+        "Nutritious Dosa": [
+            "barley",
+            "chilli",
+            "cumin",
+            "coriander",
+            "carrot",
+            "onion",
+            "fenugreek"
+        ],
+        "Badaam Shorba": [
+            "almond",
+            "curry powder",
+            "tomato",
+            "beet",
+            "curry leaves",
+            "cabbage",
+            "capsicum",
+            "onion"
+        ],
+        "Fruit Chaat (100 Calorie Snacks)": [
+            "pomegranate",
+            "orange",
+            "papaya",
+            "pineapple",
+            "coriander",
+            "chaat masala",
+            "apple",
+            "banana",
+            "grape",
+            "mint"
+        ],
+        "Shahi Pulao with Nawabi Curry ( Popular Restaurant Recipes )": [
+            "poppy seeds",
+            "almond",
+            "cashew",
+            "chilli",
+            "pineapple",
+            "cumin",
+            "tomato",
+            "ginger",
+            "coriander",
+            "clove",
+            "cardamom",
+            "cinnamon",
+            "apple",
+            "aniseed",
+            "coconut",
+            "onion"
+        ],
+        "Bheeghe Kulche Chole Recipe Card": [
+            "pomegranate",
+            "asafoetida",
+            "fenugreek",
+            "chilli",
+            "tomato",
+            "lemon",
+            "black cardamom",
+            "ginger",
+            "cinnamon",
+            "cardamom",
+            "clove",
+            "oak",
+            "coriander",
+            "mango",
+            "chole masala",
+            "onion",
+            "peppercorn",
+            "chickpea"
+        ]
+    },
+    "respiratory_disease": {
+        "Pizza Khichu": [
+            "cumin",
+            "dried mixed herbs",
+            "olive oil",
+            "chilli"
+        ],
+        "Lotus Stem Pickled Veg": [
+            "garam masala",
+            "chilli",
+            "tomato",
+            "nigella seeds",
+            "lemon",
+            "ginger",
+            "potato",
+            "mustard",
+            "coriander",
+            "mango",
+            "lotus",
+            "turmeric",
+            "aniseed",
+            "fenugreek"
+        ],
+        "Paneer Tava Masala, Punjabi Tawa Paneer Masala Recipe": [
+            "caraway",
+            "garam masala",
+            "chilli",
+            "onion",
+            "cumin",
+            "tomato",
+            "coriander",
+            "chaat masala",
+            "carom seeds",
+            "garlic",
+            "turmeric",
+            "fenugreek"
+        ],
+        "Banana Sunflower Seed Cookies Recipe Card": [
+            "castor",
+            "nutmeg",
+            "cinnamon",
+            "banana"
+        ]
+    },
+    "injury": {
+        "Dry Fruit Raita": [
+            "olive oil",
+            "almond",
+            "cumin",
+            "black pepper",
+            "apple",
+            "basil",
+            "date"
+        ],
+        "Bheeghe Kulche Chole Recipe Card": [
+            "pomegranate",
+            "asafoetida",
+            "fenugreek",
+            "chilli",
+            "tomato",
+            "lemon",
+            "black cardamom",
+            "ginger",
+            "cinnamon",
+            "cardamom",
+            "clove",
+            "oak",
+            "coriander",
+            "mango",
+            "chole masala",
+            "onion",
+            "peppercorn",
+            "chickpea"
+        ]
+    },
+    "cancer_disease": {
+        "Cream Of Broccoli Soup ( Jain International Recipe)": [
+            "broccoli",
+            "nutmeg"
+        ],
+        "Schezuan Oats and Sweet Potato Tikki": [
+            "oats",
+            "potato",
+            "celery",
+            "mango",
+            "basil",
+            "dried mixed herbs",
+            "sweet potato",
+            "onion"
+        ],
+        "Akkara Adisil": [
+            "cardamom",
+            "cashew",
+            "saffron",
+            "camphor"
+        ],
+        "Pulao Fatafat": [
+            "asafoetida",
+            "chilli",
+            "cumin",
+            "beet",
+            "cinnamon",
+            "clove",
+            "coriander",
+            "oak",
+            "garlic",
+            "carrot",
+            "turmeric",
+            "pulao masala",
+            "onion"
+        ],
+        "Sheermal (  Mughlai)": [
+            "poppy seeds",
+            "castor",
+            "saffron"
+        ],
+        "Fruit Punch ( Party Drinks )": [
+            "orange",
+            "pineapple",
+            "melon",
+            "apple",
+            "watermelon",
+            "cranberry",
+            "grape"
+        ],
+        "Sweet Corn and Asparagus Soup ( Jain Recipe)": [
+            "asparagus",
+            "chilli"
+        ],
+        "Avocado Salad": [
+            "tomato",
+            "lemon",
+            "avocado",
+            "capsicum",
+            "mint"
+        ],
+        "Papaya Tarkari": [
+            "papaya",
+            "chilli",
+            "tomato",
+            "ginger",
+            "bay",
+            "turmeric",
+            "panch phoron"
+        ],
+        "Bharleli Tondli Recipe Card": [
+            "ivy",
+            "ivy gourd",
+            "onion",
+            "tamarind",
+            "coconut",
+            "turmeric",
+            "garam masala"
+        ]
+    },
+    "pregnancy_disease": {
+        "Patra ( Non - Fried Snacks ), How To Make Gujarati Patra": [
+            "asafoetida",
+            "chilli",
+            "ginger",
+            "coriander",
+            "mustard",
+            "cassia",
+            "sesame",
+            "turmeric",
+            "tamarind",
+            "coconut"
+        ],
+        "Pizza Khichu": [
+            "cumin",
+            "dried mixed herbs",
+            "olive oil",
+            "chilli"
+        ],
+        "Vegetable Peanut Curry Recipe Card": [
+            "peanut",
+            "curry powder",
+            "black pepper",
+            "ginger",
+            "clove",
+            "garlic",
+            "carrot",
+            "coconut"
+        ]
+    },
+    "cardiovascular_disease": {
+        "Pineapple Gojju": [
+            "asafoetida",
+            "chilli",
+            "pineapple",
+            "cumin",
+            "mustard",
+            "curry leaves",
+            "apple",
+            "sesame",
+            "tamarind",
+            "coconut",
+            "fenugreek"
+        ],
+        "Paneer Koftas By Premataranga": [
+            "poppy seeds",
+            "cashew",
+            "garam masala",
+            "chilli",
+            "cumin",
+            "lemon",
+            "ginger",
+            "coriander",
+            "potato",
+            "garlic",
+            "turmeric",
+            "onion"
+        ]
+    },
+    "eye_disease": {
+        "Peshawari Chole": [
+            "pomegranate",
+            "garam masala",
+            "chilli",
+            "tomato",
+            "ginger",
+            "cinnamon",
+            "cardamom",
+            "coriander",
+            "chole masala",
+            "onion"
+        ],
+        "Mixed Vegetable Parantha Recipe Card": [
+            "pomegranate",
+            "asafoetida",
+            "bottle gourd",
+            "chilli",
+            "cumin",
+            "black pepper",
+            "potato",
+            "mango",
+            "carrot",
+            "turmeric",
+            "capsicum",
+            "peppercorn"
+        ],
+        "Mango Thandai Recipe Card": [
+            "poppy seeds",
+            "almond",
+            "cashew",
+            "melon",
+            "black pepper",
+            "saffron",
+            "rose petals",
+            "cardamom",
+            "cinnamon",
+            "mango",
+            "peppercorn",
+            "oak",
+            "castor"
+        ]
+    },
+    "endocrine_disease": {
+        "Mysore Masala Dosa ( Mumbai Roadside Recipe)": [
+            "capsicum",
+            "coconut",
+            "chilli",
+            "tomato",
+            "beet",
+            "coriander",
+            "clove",
+            "cabbage",
+            "garlic",
+            "pav bhaji masala",
+            "carrot",
+            "tamarind",
+            "peppercorn",
+            "onion"
+        ]
+    },
+    "nephrological_disease": {
+        "Flaxseeds Dry Chutney, South Indian Flax Seeds Podi": [
+            "cumin",
+            "flax",
+            "chilli"
+        ],
+        "Fruit Punch ( Party Drinks )": [
+            "orange",
+            "pineapple",
+            "melon",
+            "apple",
+            "watermelon",
+            "cranberry",
+            "grape"
+        ],
+        "Pethe Jo Seero Recipe Card": [
+            "almond",
+            "pumpkin",
+            "saffron",
+            "cardamom",
+            "oak"
+        ],
+        "Mullangi Sambhar Recipe Card": [
+            "asafoetida",
+            "chilli",
+            "tomato",
+            "sambhar powder",
+            "mustard",
+            "coriander",
+            "oak",
+            "curry leaves",
+            "radish",
+            "pigeon pea",
+            "turmeric",
+            "tamarind",
+            "onion"
+        ],
+        "Akhrot Seekh Kabab Recipe Card": [
+            "caraway",
+            "cashew",
+            "chilli",
+            "cumin",
+            "ginger",
+            "potato",
+            "coriander",
+            "garlic",
+            "chaat masala",
+            "banana",
+            "carrot",
+            "garam masala"
+        ]
+    },
+    "metabolic_disease": {
+        "Cabbage Soup Recipe": [
+            "carrot",
+            "cabbage",
+            "parsley",
+            "onion"
+        ],
+        "Papaya Tarkari": [
+            "papaya",
+            "chilli",
+            "tomato",
+            "ginger",
+            "bay",
+            "turmeric",
+            "panch phoron"
+        ],
+        "Palak Paneer": [
+            "cashew",
+            "fenugreek",
+            "chilli",
+            "tomato",
+            "spinach",
+            "melon",
+            "ginger",
+            "garlic",
+            "onion",
+            "garam masala"
+        ]
+    },
+    "skin_disease": {
+        "Pizza Khichu": [
+            "cumin",
+            "dried mixed herbs",
+            "olive oil",
+            "chilli"
+        ],
+        "Mirchi ka Salan, Hyderabadi Mirchi Ka Salan Recipe": [
+            "peanut",
+            "chilli",
+            "onion",
+            "cumin",
+            "nigella seeds",
+            "tomato",
+            "ginger",
+            "coriander",
+            "mustard",
+            "clove",
+            "curry leaves",
+            "garlic",
+            "sesame",
+            "turmeric",
+            "tamarind",
+            "coconut",
+            "fenugreek"
+        ],
+        "Fruit Chaat (100 Calorie Snacks)": [
+            "pomegranate",
+            "orange",
+            "papaya",
+            "pineapple",
+            "coriander",
+            "chaat masala",
+            "apple",
+            "banana",
+            "grape",
+            "mint"
+        ],
+        "Mango Thandai Recipe Card": [
+            "poppy seeds",
+            "almond",
+            "cashew",
+            "melon",
+            "black pepper",
+            "saffron",
+            "rose petals",
+            "cardamom",
+            "cinnamon",
+            "mango",
+            "peppercorn",
+            "oak",
+            "castor"
+        ],
+        "Bagala Baath Recipe Card": [
+            "asafoetida",
+            "chilli",
+            "ginger",
+            "mustard",
+            "curry leaves",
+            "mango",
+            "sesame",
+            "carrot",
+            "grape"
+        ]
+    },
+    "mental_disease": {
+        "Schezuan Oats and Sweet Potato Tikki": [
+            "oats",
+            "potato",
+            "celery",
+            "mango",
+            "basil",
+            "dried mixed herbs",
+            "sweet potato",
+            "onion"
+        ],
+        "Chat (khakra)": [
+            "chilli",
+            "tomato",
+            "coriander",
+            "garlic",
+            "oregano",
+            "onion"
+        ],
+        "Makhane ki Kheer ( Indian Cooking)": [
+            "lotus",
+            "nutmeg",
+            "saffron"
+        ],
+        "Palak And Chenna Parantha Recipe Card": [
+            "garam masala",
+            "chilli",
+            "cumin",
+            "spinach",
+            "coriander",
+            "carom seeds",
+            "chaat masala",
+            "mint",
+            "onion"
+        ]
+    },
+    "reproductive_disease": {
+        "Salad with Papad": [
+            "pomegranate",
+            "curry powder",
+            "tomato",
+            "lemon",
+            "cumin",
+            "madras curry powder",
+            "celery",
+            "garlic",
+            "apple",
+            "radish",
+            "onion"
+        ],
+        "Jain Tikkis/ Cutlets": [
+            "coriander",
+            "oak",
+            "chaat masala",
+            "capsicum",
+            "oregano"
+        ],
+        "Papite Ke Kofte": [
+            "cashew",
+            "papaya",
+            "chilli",
+            "onion",
+            "cumin",
+            "tomato",
+            "ginger",
+            "potato",
+            "coriander",
+            "mango",
+            "garlic",
+            "turmeric",
+            "garam masala"
+        ],
+        "Shufta Recipe Card": [
+            "almond",
+            "cashew",
+            "black pepper",
+            "apricot",
+            "saffron",
+            "cardamom",
+            "cinnamon",
+            "ginger",
+            "rose petals",
+            "date",
+            "coconut"
+        ],
+        "Sweet Corn and Asparagus Soup ( Jain Recipe)": [
+            "asparagus",
+            "chilli"
+        ]
+    },
+    "musculoskeletal_disease ": {
+        "Steamed Lauki And Palak Kofta Recipe Card": [
+            "fenugreek",
+            "bottle gourd",
+            "garam masala",
+            "chilli",
+            "tomato",
+            "spinach",
+            "ginger",
+            "potato",
+            "coriander",
+            "chaat masala",
+            "garlic",
+            "turmeric",
+            "onion"
+        ],
+        "Akkara Adisil": [
+            "cardamom",
+            "cashew",
+            "saffron",
+            "camphor"
+        ],
+        "Banana and Coffee Muffins Recipe Card": [
+            "vanilla",
+            "castor",
+            "coffee",
+            "banana"
+        ]
+    },
+    "ear_disease": {
+        "Vegetable Kolhapuri, Maharashtrain Vegetable Kolhapuri": [
+            "poppy seeds",
+            "chilli",
+            "tomato",
+            "coriander",
+            "garlic",
+            "sesame",
+            "onion",
+            "coconut",
+            "garam masala"
+        ]
+    },
+    "neuronal_disease": {
+        "Vegetable Stuffed Upma Cutlet": [
+            "asafoetida",
+            "chilli",
+            "cumin",
+            "lemon",
+            "ginger",
+            "coriander",
+            "mustard",
+            "oats",
+            "curry leaves",
+            "carrot",
+            "turmeric",
+            "coconut"
+        ],
+        "Strength Shorba, Bombay Curry Soup with Spinach": [
+            "curry powder",
+            "chilli",
+            "tomato",
+            "spinach",
+            "lemon",
+            "garlic",
+            "onion"
+        ],
+        "Bharleli Tondli Recipe Card": [
+            "ivy",
+            "ivy gourd",
+            "onion",
+            "tamarind",
+            "coconut",
+            "turmeric",
+            "garam masala"
+        ],
+        "Fruit Shrikhand Recipe Card": [
+            "grape",
+            "mango",
+            "castor",
+            "apple"
+        ]
+    },
+    "poisoning": {
+        "Pressure Cooker Oondhiya": [
+            "asafoetida",
+            "chilli",
+            "cumin",
+            "lemon",
+            "ginger",
+            "potato",
+            "coriander",
+            "carom seeds",
+            "garlic",
+            "banana",
+            "turmeric",
+            "coconut",
+            "sweet potato",
+            "fenugreek"
+        ],
+        "Banana and Coffee Muffins Recipe Card": [
+            "vanilla",
+            "castor",
+            "coffee",
+            "banana"
+        ]
+    },
+    "blood_disease": {
+        "Navratri Special Khichdi": [
+            "peanut",
+            "pomegranate",
+            "chilli",
+            "cumin",
+            "lemon",
+            "coriander",
+            "potato",
+            "curry leaves"
+        ],
+        "Hyderabadi Dum Gosht Biryani-SK Khazana Recipe Card": [
+            "caraway",
+            "papaya",
+            "chilli",
+            "lemon",
+            "black cardamom",
+            "ginger",
+            "cinnamon",
+            "clove",
+            "cardamom",
+            "coriander",
+            "garlic",
+            "oak",
+            "bay",
+            "saffron",
+            "turmeric",
+            "mint",
+            "onion"
+        ],
+        "Kiwi Vanilla Lassi Recipe Card": [
+            "kiwi",
+            "vanilla"
+        ]
+    },
+    "immune_disease": {
+        "Oondhiya, Microwave Oondhiya": [
+            "asafoetida",
+            "fenugreek",
+            "chilli",
+            "cumin",
+            "lemon",
+            "ginger",
+            "potato",
+            "coriander",
+            "carom seeds",
+            "garlic",
+            "turmeric",
+            "coconut",
+            "garam masala"
+        ],
+        "Pizza Khichu": [
+            "cumin",
+            "dried mixed herbs",
+            "olive oil",
+            "chilli"
+        ]
+    },
+    "sleep_disease": {
+        "Lotus Stem Pickled Veg": [
+            "garam masala",
+            "chilli",
+            "tomato",
+            "nigella seeds",
+            "lemon",
+            "ginger",
+            "potato",
+            "mustard",
+            "coriander",
+            "mango",
+            "lotus",
+            "turmeric",
+            "aniseed",
+            "fenugreek"
+        ]
+    },
+    "nutritional_disease": {
+        "Corn Methi Malai": [
+            "almond",
+            "cashew",
+            "fenugreek",
+            "chilli",
+            "cumin",
+            "melon",
+            "cinnamon",
+            "watermelon",
+            "nutmeg",
+            "onion"
+        ],
+        "Lotus Stem Pickled Veg": [
+            "garam masala",
+            "chilli",
+            "tomato",
+            "nigella seeds",
+            "lemon",
+            "ginger",
+            "potato",
+            "mustard",
+            "coriander",
+            "mango",
+            "lotus",
+            "turmeric",
+            "aniseed",
+            "fenugreek"
+        ]
+    },
+    "general_disease": {
+        "Mushroom Pulao": [
+            "chilli",
+            "tomato",
+            "garlic",
+            "turmeric",
+            "capsicum",
+            "dried mixed herbs",
+            "onion"
+        ]
+    },
+    "othercauses": {
+        "Dry Peanut Chutney Powder, Maharashtrian Shengdana Chutney": [
+            "peanut",
+            "chilli",
+            "cumin",
+            "garlic",
+            "turmeric"
+        ]
+    },
+    "oral_disease": {
+        "Nutritious Thalipeeth": [
+            "chilli",
+            "cumin",
+            "coriander",
+            "cabbage",
+            "onion"
+        ],
+        "Avocado Salad": [
+            "tomato",
+            "lemon",
+            "avocado",
+            "capsicum",
+            "mint"
+        ]
+    },
+    "smell_taste_disease": {
+        "Vegetable Kootu  By shuba18": [
+            "asafoetida",
+            "coconut",
+            "sambhar powder"
+        ]
+    }
+}

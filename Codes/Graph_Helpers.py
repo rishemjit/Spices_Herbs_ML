@@ -4,6 +4,8 @@ from itertools import chain
 import networkx as nx
 from networkx.algorithms import bipartite
 
+#### Author: Shuchen Zhang
+
 
 def dict2json(d, write_file):
     j = json.dumps(d, indent = 4)
