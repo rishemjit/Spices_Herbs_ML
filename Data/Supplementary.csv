@@ -1,0 +1,101 @@
+Indication,Phytochemical,Inference_EV_NH_IF,specificity_score
+Andropause,Dianethole,EV,0.5
+Oxalcrystalluria,7beta-12alpha-Dihydroxykaurenolide,NH,0.5
+Oxalcrystalluria,Cucurbic acid,EV,0.5
+Tennis elbow,Capsorubin,NH,0.5
+Tennis elbow,Vanillyl amine,EV,0.5
+Lung Tumor,Sulforaphane,IF,0.25
+Thumb sucking,Capsorubin,NH,0.5
+Thumb sucking,Vanillyl amine,NH,0.5
+Thumb sucking,Dihydrocapsaicin,NH,0.5
+Inorgasmia,Capsorubin,NH,0.5
+Inorgasmia,Vanillyl amine,EV,0.5
+Inorgasmia,Dihydrocapsaicin,NH,0.5
+Cluster headache,Capsorubin,EV,0.333333
+Cluster headache,Vanillyl amine,EV,0.333333
+Cluster headache,Dihydrocapsaicin,EV,0.333333
+Diabetic neuropathy,Capsorubin,EV,0.333333
+Diabetic neuropathy,Vanillyl amine,EV,0.333333
+Lung Tumor,Indole-3-carbinol,IF,0.25
+Telangiectasia,Astilbin,EV,0.333333
+Telangiectasia,Caffeoyltartaric acid,NH,0.333333
+Oxaluria,Vitamin K,IF,0.2
+Telangiectasia,Methyl oleanolate,NH,0.333333
+Telangiectasia,Epsilon-viniferin,NH,0.333333
+Colosis,Diallyl trisulfide,IF,0.25
+Telangiectasia,Monopotassium tartrate,NH,0.333333
+Cancer,Gluconasturitin,EV,0.333333
+Andropause,P-anisaldehyde,NH,0.333333
+Oxalcrystalluria,Cucurbitacin D,EV,0.333333
+Oxalcrystalluria,Cucurbitacin I,EV,0.333333
+Oxalcrystalluria,Cucurbitin,EV,0.333333
+Tennis elbow,Capsidiol,EV,0.333333
+Tennis elbow,Capsaicin,EV,0.333333
+Tennis elbow,Capsanthin,EV,0.333333
+Tennis elbow,Methyl nonanoate,EV,0.333333
+Thumb sucking,Capsidiol,NH,0.333333
+Thumb sucking,Capsaicin,NH,0.333333
+Thumb sucking,Capsanthin,NH,0.333333
+Thumb sucking,Methyl nonanoate,NH,0.333333
+Inorgasmia,Capsidiol,NH,0.333333
+Inorgasmia,Capsaicin,NH,0.333333
+Inorgasmia,Capsanthin,NH,0.333333
+Inorgasmia,Methyl nonanoate,NH,0.333333
+Oxalcrystalluria,Pheophytin A,NH,0.25
+Lithuria,Eugenin,NH,0.25
+Lithuria,Asterin,NH,0.25
+Lithuria,Cynaroside,NH,0.25
+Lithuria,Trans-isoasarone,NH,0.25
+Lithuria,Carotatoxin,NH,0.25
+Colosis,Prostaglandin A1,IF,0.25
+Colosis,Allicin,IF,0.25
+Lung Tumor,Glucoraphanin,IF,0.2
+Colosis,Allyl propyl disulfide,EV,0.25
+Colosis,Prostaglandin E1,IF,0.25
+Colosis,Cycloalliin,EV,0.25
+Diabetic neuropathy,Dihydrocapsaicin,IF,0.333333
+Colosis,Endolysin,NH,0.25
+Papilloma,Gluconasturitin,IF,0.25
+Colosis,Muramidase,NH,0.25
+Colosis,Alliin,IF,0.25
+Hemophilia,Galloyl-beta-D-glucose,EV,0.25
+Papilloma,Indole-3-carbinol,IF,0.1875
+Papilloma,Gluconasturtin,EV,0.25
+Giddiness,Capsorubin,EV,0.25
+Giddiness,Vanillyl amine,NH,0.25
+Giddiness,Dihydrocapsaicin,EV,0.25
+Telangiectasia(Ataxia),Anthocyanidins,IF,0.333333
+Telangiectasia,Cis-resveratrol,IF,0.222222
+Cluster headache,Capsidiol,EV,0.222222
+Cluster headache,Capsaicin,EV,0.222222
+Cluster headache,Capsanthin,EV,0.222222
+Cluster headache,Methyl nonanoate,EV,0.222222
+Diabetic neuropathy,Capsidiol,EV,0.222222
+Diabetic neuropathy,Capsaicin,EV,0.222222
+Diabetic neuropathy,Capsanthin,EV,0.222222
+Diabetic neuropathy,Methyl nonanoate,EV,0.222222
+Telangiectasia,Procyanidin B6,NH,0.222222
+Telangiectasia,Caftaric acid,NH,0.222222
+Telangiectasia,Epicatechin-3-O-gallate,NH,0.222222
+Telangiectasia,Abscissic acid,EV,0.222222
+Telangiectasia,"3,3'-Digalloylprocyanidin B2",NH,0.222222
+Telangiectasia,Procyanidin C2,NH,0.222222
+Telangiectasia,Trans-resveratrol,IF,0.166667
+Telangiectasia,Dihydrozeatin,NH,0.222222
+Prurigo,Capsorubin,EV,0.2
+Prurigo,Vanillyl amine,NH,0.2
+Prurigo,Dihydrocapsaicin,EV,0.2
+Cancer,Progoitrin,EV,0.2
+Cancer,Gluconapin,EV,0.2
+Andropause,Cis-anethole,EV,0.2
+Filariasis,Hexadecanol,EV,0.2
+Telangiectasia,Pterostilbene,IF,0.333333
+Papilloma,Sulforaphane,IF,0.1875
+Lung Tumor,Neoglucobrassicin,EV,0.2
+Tennis elbow,Dihydrocapsaicin,IF,0.5
+Colosis,Allyl methyl sulfide,IF,0.25
+Colosis,Allyl methyl disulfide,IF,0.25
+Telangiectasia,Coniferyl aldehyde,NH,0.166667
+Telangiectasia,Procyanidin B2 3-gallate,NH,0.166667
+Telangiectasia,Piceid,NH,0.166667
+Telangiectasia,Protocatechualdehyde,NH,0.166667
